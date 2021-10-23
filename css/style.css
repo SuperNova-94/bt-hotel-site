@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box
-}
+
+    
+} 
 
 /* Main Styling */
 html,body {
@@ -74,6 +76,12 @@ p {
     background: #f7c08a;
     color: #333;
 }
+
+.clr {
+    clear:both;
+}
+
+
 /* Navbar */
 #navbar {
     background-color: #333;
@@ -168,4 +176,12 @@ p {
 
 .box i {
     margin-bottom: 10px;
+}
+
+/* Footer */
+#main-footer {
+    text-align: center;
+    background: #444;
+    color: #fff;
+    padding: 20px;
 }
