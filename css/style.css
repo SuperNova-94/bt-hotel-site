@@ -83,6 +83,7 @@ p {
 
 .l-heading {
     font-size: 40px;
+    line-height: 1.2;
 }
 
 /* Padding */
@@ -209,7 +210,7 @@ p {
 
 /* Testimonials */
 #testimonials {
-    height: 600px;
+    height: 100%;
     background: url('../img/test-bg.jpg') no-repeat center/cover;
     padding-top: 100px; 
 }
