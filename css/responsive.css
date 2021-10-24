@@ -20,7 +20,7 @@
 
 /* Home Info */
 #home-info {
-    height: 700px;
+    height: 580px;
 }
 
 #home-info .info-img  {
@@ -36,4 +36,9 @@
 .box {
     float: none;
     width: 100%;
+}
+
+/* About */
+#about-info {
+
 }
