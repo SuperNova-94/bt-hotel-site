@@ -14,8 +14,13 @@
     border-bottom: #444 dotted 1px;
 }
 /* Showcase */
+#showcase {
+    /* height: 100%; */
+}
 #showcase .showcase-content {
     padding-top: 130px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /* Home Info */
@@ -53,4 +58,9 @@
 
 .l-heading {
     text-align: center;
+}
+
+/* Contact Form */
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
 }
